@@ -22,9 +22,6 @@ A aplicação é feita para os amantes de música, com o objetivo de criar um es
 - ✍️ Escrever reviews e comentários sobre músicas e álbuns.
 - 📃 Criar playlists personalizadas, como “Top 10 álbuns de 2025” ou “Melhores músicas para estudar”.
 - ❤️ Marcar músicas como favoritas.
-- 📰 Feed de atividades com reviews, notas e playlists de pessoas que você segue. (EM BREVE)
-- 👤 Seguir outros usuários e ver suas reviews. (EM BREVE)
-- 💬 Comentar em reviews e listas de outros usuários. (EM BREVE)
 
 A interface é baseada em texto, interagindo com o usuário através do console (CLI - Command Line Interface).
 
